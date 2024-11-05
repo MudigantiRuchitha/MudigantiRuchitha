@@ -10,3 +10,6 @@ AIML 5 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML5(gh
 
 AIML_6 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML6(gh).ipynb
 
+AIML_7 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML7.ipynb
+
+
