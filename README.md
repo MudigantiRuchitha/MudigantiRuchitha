@@ -14,5 +14,6 @@ AIML_7 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML7.ip
 
 AIML_8 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML8.ipynb
 
+AIML_9 https://github.com/MudigantiRuchitha/MudigantiRuchitha/blob/main/AIML9.ipynb
 
 
